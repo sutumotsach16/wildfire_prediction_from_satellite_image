@@ -1,0 +1,7 @@
+tensorflow
+pillow
+matplotlib
+numpy
+seaborn
+ipykernel
+notebook
