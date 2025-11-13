@@ -9,6 +9,7 @@ Mô hình này sử dụng mạng nơ-ron tích chập (CNN) để phát hiện 
 * [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
 * [Cách sử dụng](#cách-sử-dụng)
 * [Đóng góp](#đóng-góp)
+* [Kết quả](#kết-quả)
 
 ---
 
@@ -51,3 +52,9 @@ Chạy file `python prediction.py` để khởi động ứng dụng. Tùy thu�
   !python prediction.py
   ```  
 - Trong IDE như PyCharm hoặc VSCode, bạn có thể mở file `prediction.py` và chạy trực tiếp từ giao diện IDE.
+
+## Kết quả
+
+| Ảnh dự đoán 1 | Ảnh dự đoán 2 |
+|:-------:|:-----------:|
+| ![Ảnh dự đoán 1](./report/pic/Screenshot%202025-11-13%20231919.png) | ![Ảnh dự đoán 2](./report/pic/Screenshot%202025-11-13%20232003.png) |
